@@ -38,8 +38,6 @@ def fine_file(command):
     return os.chdir(command)
 
 
-
-
 def copy(command, command2):
     shutil.copy2(fr'{command}', fr'{command2}')  # Копирование файла
 
