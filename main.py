@@ -9,7 +9,10 @@ def init():
 
 _, *args = sys.argv
 
+<<<<<<< HEAD
 print(*args)
+=======
+>>>>>>> 97d0b04 (May)
 xar = args[0]
 try:
     xar2 = args[1]

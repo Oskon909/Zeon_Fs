@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/.zeon_fs/index.html" />
+  </component>
+>>>>>>> 97d0b04 (May)
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (pythonProject24)" project-jdk-type="Python SDK" />
 </project>
